@@ -1,15 +1,14 @@
 import matplotlib.pyplot as plt
 from matplotlib import gridspec
-from QuadtreewPIT import Point, Vertex, Rectangle, Quadtree
+from Quadtree import Point, Vertex, Rectangle, Quadtree
 from circle import circle
-from drawBoundary import drawBoundary
 
 width, height = 30, 20
-circle_radius = 10  # Define the radius of the circle
-circle_center = Point(width/2, height/2)  # Center of the circle
+circle_radius = 10  # Define the radius of the plate
+circle_center = Point(width/2, height/2)  # Center of the plate
 depth = 0
 SpaceTreeDepth = 10
-# Initialize the circle domain
+# Initialize the plate domain
 circle_domain = circle(circle_radius, circle_center)
 
 points = circle_domain.generate_circle_points(circle_center, circle_radius)
@@ -26,9 +25,11 @@ qtree = Quadtree(domain, depth, SpaceTreeDepth)
 for point in points:
     qtree.insert(point)
 
+#the quadtrees are collected in an array !
+
 quadtrees = qtree.collect_quadtrees()
 
-# Optional: Visualize the result
+#Visualize the result
 fig = plt.figure(figsize=(20, 12))
 gs = gridspec.GridSpec(1, 1)
 ax = fig.add_subplot(gs[0])
