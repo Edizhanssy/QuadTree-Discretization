@@ -1,7 +1,7 @@
 # QuadTree-Discretization
 Quadtree Discretization Code 
 
-Quadtree discretization of an Plate with certain radius can be found avaliable in the code.
+Quadtree discretization of an Plate with certain radius avaliable in the code.
 The quadtree discretization is done according to the data generated with using function avaliable in the code; however, any domain which will be having its coordinates of points, as STL files
 can be discretized using this code. The partitioning process of each depth can be identified with the different colours attained.
 
