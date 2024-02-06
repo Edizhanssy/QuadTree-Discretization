@@ -10,7 +10,7 @@ The quadtree structure that is used in this code is to discretize a domain in th
 * The structure of the Quadtree as Follows:
 ![ExampleQuadtree](https://github.com/Edizhanssy/QuadTree-Discretization/assets/128889535/3db6ebfb-3feb-4edd-827a-b9b0abf736b6)
 
-  Figure 1: Arrangement of an Quadtree Structure [1]
+            Figure 1: Arrangement of an Quadtree Structure [1]
 
 * The Plate discretization from my code:
 ![result](https://github.com/Edizhanssy/QuadTree-Discretization/assets/128889535/740af1de-856b-4035-9fff-dd8aebb389c3)
