@@ -7,8 +7,7 @@ This repository contains a Python-based implementation of Quadtree Discretizatio
 The quadtree discretization is done according to the data generated with using function avaliable in the code; however, domain which will be having its coordinates of points can be discretized using this code. The partitioning process of each depth can be identified with the different colours attained.
 Quadtrees are hierarchial data structures, which are extensively used especially in softwares, geometry engines, games, especially finding a data within the specific area or domain, collision detection, and Image Processing.
 
-* Contribution
-Any contributions and feedback welcome to improve this project. If you have ideas, or enhancements, please feel free to change to for your use.
+Any contributions and feedback is welcome to improve this project. If you have ideas, or enhancements, please feel free to change to for your own use.
 
 The quadtree structure that is used in this code is to discretize a domain in this case a Simple Plate is applied as embeeded domain.
 
