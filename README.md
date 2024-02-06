@@ -19,5 +19,5 @@ The quadtree structure that is used in this code is to discretize a domain in th
 Please feel free to change, upgrade this code for your own usage.
 # References
 
-[1] - “GKQuadtree,” Apple Developer Documentation, https://developer.apple.com/documentation/gameplaykit/gkquadtree (accessed Feb. 6, 2024). 
+[1] - “GKQuadtree,” Apple Developer Documentation, https://developer.apple.com/documentation/gameplaykit/gkquadtree. 
 
