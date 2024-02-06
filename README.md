@@ -18,7 +18,7 @@ The quadtree structure that is used in this code is to discretize a domain in th
           ![result](https://github.com/Edizhanssy/QuadTree-Discretization/assets/128889535/740af1de-856b-4035-9fff-dd8aebb389c3)
 
 
-# Contribute
+** Contribution
 Any contributions and feedback welcome to improve this project. If you have ideas, or enhancements, please feel free to change to for your use.
 
 # References
