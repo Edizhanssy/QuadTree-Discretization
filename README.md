@@ -5,7 +5,7 @@ Quadtree discretization of an Plate with certain radius avaliable in the code.
 The quadtree discretization is done according to the data generated with using function avaliable in the code; however, any domain which will be having its coordinates of points, as STL files
 can be discretized using this code. The partitioning process of each depth can be identified with the different colours attained.
 
-Quadtrees are extensively used especially in softwares, geometry engines, games, especially finding a data within the specific area or domain, collision detection, and Image Processing. 
+Quadtrees are hierarchial data structures, which are extensively used especially in softwares, geometry engines, games, especially finding a data within the specific area or domain, collision detection, and Image Processing.
 The quadtree structure that is used in this code is to discretize a domain in this case a Simple Plate is applied as embeeded domain.
 
 * The structure of the Quadtree as Follows:
