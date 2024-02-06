@@ -9,8 +9,6 @@ Quadtrees are hierarchial data structures, which are extensively used especially
 
 Any contributions and feedback is welcome to improve this project. If you have ideas, or enhancements, please feel free to change to for your own use.
 
-The quadtree structure that is used in this code is to discretize a domain in this case a Simple Plate is applied as embeeded domain.
-
 * The structure of the Quadtree as Follows
           ![ExampleQuadtree](https://github.com/Edizhanssy/QuadTree-Discretization/assets/128889535/3db6ebfb-3feb-4edd-827a-b9b0abf736b6)
 
