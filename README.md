@@ -1,5 +1,4 @@
 # QuadTree-Discretization
-Quadtree Discretization Code 
 
  Python IDE: PyCharm
 
