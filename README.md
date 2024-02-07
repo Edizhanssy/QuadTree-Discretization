@@ -2,9 +2,11 @@
 
  Python IDE: PyCharm
 
-This repository contains a Python-based implementation of Quadtree Discretization, specifically designed for discretizing a plate with a specified radius. Quadtrees, as hierarchical data structures, are crucial in fields like software engineering, geometry, gaming, collision detection, and image processing.
-The quadtree discretization is done according to the data generated with using function avaliable in the code; however, domain which will be having its coordinates of points can be discretized using this code. The partitioning process of each depth can be identified with the different colours attained.
-Quadtrees are hierarchial data structures, which are extensively used especially in softwares, geometry engines, games, especially finding a data within the specific area or domain, collision detection, and Image Processing.
+This repository contains a Python-based implementation of Quadtree discretization, specifically designed for discretizing a plate with a specified radius. Quadtrees are hierarchial data structures, which are extensively used especially in softwares, geometry engines, and games, especially finding a data within the specific area or domain, collision detection, and Image Processing.
+
+
+The quadtree discretization is done according to the plate data generated with using function avaliable in the code; however, domain which will be having its points of coordinates can be discretized using this code. The partitioning process of each depth can be identified with the different colours attained.
+
 
 Any contributions and feedback is welcome to improve this project. If you have ideas, or enhancements, please feel free to change to for your own use.
 
